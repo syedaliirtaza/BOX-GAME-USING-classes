@@ -1,0 +1,9 @@
+#square-container{
+    position: relative;
+}
+.square{
+    position: absolute;
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+}
